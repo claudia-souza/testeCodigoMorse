@@ -12,6 +12,8 @@ Código automatizado para retorna algumas palavras em especificas em código Mor
 
 #Descrição 
 1-Implementar uma classe Morse com um método convertToMorse(String text) que receba uma frase e retorne uma string correspondente à frase convertida para o código Morse.
+
+
 2-O método deve lançar uma exceção se a frase for vazia.
 
 
